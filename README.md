@@ -1,6 +1,6 @@
 # LINKS
 
-# END USER
+# END USER 🗣
 
 [Change Password 🔑](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
 
@@ -34,7 +34,7 @@ OneDrive
 
 Advanced Hunting
 
-## Admin
+## Admin 🔞
 
 [Roles/PIM 💎](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
 
@@ -48,7 +48,7 @@ ECP new 📩
 
 OneDrive Admin
 
-Teams Admin 💬
+[Teams Admin 💬](https://admin.teams.microsoft.com/dashboard)
 
 [Sharepoint Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
 
@@ -64,7 +64,7 @@ Log Analytics
 
 Licenses 📑
 
-Groups 👨‍👧‍👧
+[AAD Groups 👨‍👧‍👧](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups)
 
 
 
