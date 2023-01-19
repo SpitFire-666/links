@@ -6,11 +6,15 @@
 
 ## MS Office
 
+Teams 💬
+
 Stream
 
-Outlook
+Outlook ✉
 
+Word
 
+Excel
 
 
 
@@ -20,9 +24,13 @@ Outlook
 
 [Web Filtering URLs](https://security.microsoft.com/webcontentfilteringcategoriesdetailspage?viewid=domains)
 
+[Sentinel Workbooks 📚](https://portal.azure.com/#view/Microsoft_Azure_Security_Insights/MainMenuBlade/~/9/id/%2Fsubscriptions%2F30e05503-80db-46f8-887b-aa6207a9fb27%2Fresourcegroups%2Ftsec-siem-rg-auc%2Fproviders%2Fmicrosoft.securityinsightsarg%2Fsentinel%2Fauc-siem-loa)
+
 Advanced Hunting
 
 ## Admin
+
+[Roles/PIM 💎](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
 
 ECP old 📩
 
@@ -32,7 +40,7 @@ ECP new 📩
 
 [Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
-Teams Admin phone
+Teams Admin 💬
 
 [Sharepoint Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
 
@@ -44,7 +52,9 @@ Log Analytics
 
 ## O365
 
-Licenses
+[Azure Active Directory (AAD)](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade)
+
+Licenses 📑
 
 Groups 👨‍👧‍👧
 
