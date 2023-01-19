@@ -2,19 +2,25 @@
 
 # END USER
 
+[Change Password 🔑](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
+
 [Self Service Password Reset (SSPR) 🔑](https://passwordreset.microsoftonline.com)
 
 ## MS Office
 
-Teams 💬
+[Office Portal](https://www.office.com/?auth=2)
 
-Stream
+[Teams 💬](https://teams.microsoft.com/_#/conversations/)
+
+[Stream](https://www.office.com/launch/stream?auth=2)
 
 Outlook ✉
 
 Word
 
 Excel
+
+OneDrive
 
 
 
@@ -39,6 +45,8 @@ ECP new 📩
 [Message Trace ✉](https://admin.exchange.microsoft.com/#/messagetrace)
 
 [Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+OneDrive Admin
 
 Teams Admin 💬
 
