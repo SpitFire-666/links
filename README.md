@@ -35,6 +35,8 @@ OneDrive
 
 ## Security
 
+[User Sign-In logs 👤](https://endpoint.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/SignIns)
+
 [Endpoint Manager - ASR Rules](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Workflows/SecurityManagementMenu/asr)
 
 [Web Filtering URLs](https://security.microsoft.com/webcontentfilteringcategoriesdetailspage?viewid=domains)
