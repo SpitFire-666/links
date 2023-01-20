@@ -27,6 +27,12 @@ OneDrive
 [Servers](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/servers)
 
 
+## Intune
+
+[Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
+
+[Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
+
 ## Security
 
 [Endpoint Manager - ASR Rules](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Workflows/SecurityManagementMenu/asr)
