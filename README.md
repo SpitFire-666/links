@@ -45,6 +45,7 @@ OneDrive
 
 [Microsoft 365 Defender | Devices 💻](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[Installed Software/Application Inventory](https://security.microsoft.com/vulnerability-management-inventories/applications?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 Advanced Hunting
 
