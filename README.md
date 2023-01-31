@@ -33,6 +33,8 @@ OneDrive
 
 [Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
+[Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
+
 ## Security
 
 [User Sign-In logs 👤](https://endpoint.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/SignIns)
