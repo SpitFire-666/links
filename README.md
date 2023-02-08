@@ -29,7 +29,7 @@ OneDrive
 
 ## Intune
 
-[Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
+[💻 Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
 
 [Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
@@ -49,7 +49,7 @@ OneDrive
 
 [Sentinel Workbooks 📚](https://portal.azure.com/#view/Microsoft_Azure_Security_Insights/MainMenuBlade/~/9/id/%2Fsubscriptions%2F30e05503-80db-46f8-887b-aa6207a9fb27%2Fresourcegroups%2Ftsec-siem-rg-auc%2Fproviders%2Fmicrosoft.securityinsightsarg%2Fsentinel%2Fauc-siem-loa)
 
-[Microsoft 365 Defender | Devices 💻](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+[💻 Microsoft 365 Defender | Devices](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [Installed Software/Application Inventory](https://security.microsoft.com/vulnerability-management-inventories/applications?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
@@ -57,19 +57,19 @@ Advanced Hunting
 
 ## Admin 🔞
 
-[Roles/PIM 💎](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
+[💎 Roles/PIM](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
 
 ECP old 📩
 
 ECP new 📩
 
-[Message Trace ✉](https://admin.exchange.microsoft.com/#/messagetrace)
+[✉ Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
 
 [Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 OneDrive Admin
 
-[Teams Admin 💬](https://admin.teams.microsoft.com/dashboard)
+[💬 Teams Admin](https://admin.teams.microsoft.com/dashboard)
 
 [Sharepoint Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
 
@@ -77,7 +77,7 @@ OneDrive Admin
 
 Log Analytics 
 
-[Service Health ❤](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
+[❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
 
 ## O365
 
@@ -85,7 +85,7 @@ Log Analytics
 
 Licenses 📑
 
-[AAD Groups 👨‍👧‍👧](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups)
+[👪AAD Groups](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups)
 
 
 
