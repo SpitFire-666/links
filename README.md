@@ -6,6 +6,8 @@
 
 [Self Service Password Reset (SSPR) 🔑](https://passwordreset.microsoftonline.com)
 
+[MyApps](https://myapps.microsoft.com/)
+
 ## MS Office
 
 [Office Portal](https://www.office.com/?auth=2)
