@@ -99,3 +99,5 @@ Licenses 📑
 # Azure
 
 [Resource Groups](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups)
+
+[📊Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade)
