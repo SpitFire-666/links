@@ -61,11 +61,11 @@ Advanced Hunting
 
 [💎 Roles/PIM](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
 
-[📩 Exchange ECP old ]()
+[📧 Exchange ECP old ]()
 
-[📩 Exchange ECP new ]()
+[📧 Exchange ECP new ]()
 
-[✉ Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
+[📧 Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
 
 [☣ Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
@@ -97,6 +97,8 @@ Log Analytics
 
 
 # Azure
+
+[🆘 All Support Requests](https://portal.azure.com/#view/Microsoft_Azure_Support/HelpAndSupportBlade/~/managesupportrequest)
 
 [Resource Groups](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups)
 
