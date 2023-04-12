@@ -85,6 +85,8 @@ Log Analytics
 
 [Azure Active Directory (AAD)](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade)
 
+[🆘 All support requests/tickets](https://aad.portal.azure.com/#view/Microsoft_Azure_Support/HelpAndSupportBlade/~/managesupportrequest)
+
 [AAD Connect](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/DirectoriesADConnectBlade)
 
 📑 Licenses
