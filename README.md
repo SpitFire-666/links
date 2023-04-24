@@ -55,6 +55,8 @@ OneDrive
 
 [💿 Installed Software/Application Inventory](https://security.microsoft.com/vulnerability-management-inventories/applications?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[ 🏆 Secure Score ](https://security.microsoft.com/securescore?viewid=actions&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 Advanced Hunting
 
 ## Admin 🔞
@@ -69,11 +71,9 @@ Advanced Hunting
 
 [☣ Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
-OneDrive Admin
-
 [💬 Teams Admin](https://admin.teams.microsoft.com/dashboard)
 
-[Sharepoint Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
+[Sharepoint / OneDrive Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
 
 ## stuff
 
