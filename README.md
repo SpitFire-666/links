@@ -57,6 +57,8 @@ OneDrive
 
 [ 🏆 Secure Score ](https://security.microsoft.com/securescore?viewid=actions&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[🐛 AV / AntiVirus Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus)
+
 Advanced Hunting
 
 ## Admin 🔞
