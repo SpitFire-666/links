@@ -95,7 +95,7 @@ Log Analytics
 
 [👪 AAD Groups](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups)
 
-[💻 AAD All Devices/Computers](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId~/null)
+[💻 AAD All Devices/Computers](https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices)
 
 [Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
 
