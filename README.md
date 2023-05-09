@@ -93,7 +93,7 @@ Log Analytics
 
 📑 Licenses
 
-[👪 AAD Groups](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups)
+[👪 AAD Groups](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups)
 
 [💻 AAD All Devices/Computers](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId~/null)
 
