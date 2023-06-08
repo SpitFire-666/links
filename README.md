@@ -69,6 +69,8 @@ Advanced Hunting
 
 [📧 Exchange ECP new ]()
 
+[M365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/homepage)
+
 [📧 Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
 
 [☣ Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
@@ -91,7 +93,9 @@ Log Analytics
 
 [AAD Connect](https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/DirectoriesADConnectBlade)
 
-📑 Licenses
+[M365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/homepage)
+
+[📑 Licenses](https://admin.microsoft.com/Adminportal/Home#/licenses)
 
 [👪 AAD Groups](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups)
 
@@ -107,3 +111,7 @@ Log Analytics
 [Resource Groups](https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups)
 
 [📊Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade)
+
+# Other
+
+[📧 Message Header Analyzer](https://mha.azurewebsites.net/pages/mha.html)
