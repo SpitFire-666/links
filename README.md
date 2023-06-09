@@ -61,13 +61,13 @@ OneDrive
 
 Advanced Hunting
 
-## Admin 🔞
+## 🔞 Admin
 
 [💎 Roles/PIM](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
 
-[📧 Exchange ECP old ]()
+[📧 Exchange ECP old ](https://outlook.office365.com/ecp/?form=eac&mkt=en-US)
 
-[📧 Exchange ECP new ]()
+[📧 Exchange ECP new ](https://admin.exchange.microsoft.com/#/homepage)
 
 [Anti-Spam policies](https://security.microsoft.com/antispam?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
@@ -83,7 +83,7 @@ Advanced Hunting
 
 ## stuff
 
-Log Analytics 
+Log Analytics
 
 [❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
 
@@ -103,7 +103,7 @@ Log Analytics
 
 [💻 AAD All Devices/Computers](https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices)
 
-[Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
+[💻 Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
 
 
 # Azure
