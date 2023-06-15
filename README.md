@@ -59,7 +59,7 @@ OneDrive
 
 [🐛 AV / AntiVirus Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus)
 
-Advanced Hunting
+[🎯Advanced Hunting](https://security.microsoft.com/v2/advanced-hunting?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 ## 🔞 Admin
 
