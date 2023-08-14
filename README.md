@@ -43,6 +43,8 @@ OneDrive
 
 ## Security
 
+[👮‍♂️ Conditional Access](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies)
+
 [👤 User Sign-In logs](https://endpoint.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/SignIns)
 
 [Endpoint Manager - ASR Rules](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Workflows/SecurityManagementMenu/asr)
