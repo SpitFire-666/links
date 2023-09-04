@@ -16,13 +16,13 @@
 
 [♒ Stream](https://www.office.com/launch/stream?auth=2)
 
-Outlook ✉
+[📧 Outlook](https://outlook.office.com/mail/)
 
-Word
+📄 Word
 
 Excel
 
-OneDrive
+📁 OneDrive
 
 ## Azure Arc
 
