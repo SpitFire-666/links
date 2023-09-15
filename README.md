@@ -8,7 +8,7 @@
 
 [MyApps](https://myapps.microsoft.com/)
 
-## MS Office
+## 🏢 MS Office
 
 [Office Portal](https://www.office.com/?auth=2)
 
