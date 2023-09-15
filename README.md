@@ -12,17 +12,19 @@
 
 [Office Portal](https://www.office.com/?auth=2)
 
-[💬 Teams ](https://teams.microsoft.com/_#/conversations/)
+[💬📞 Teams ](https://teams.microsoft.com/_#/conversations/)
 
-[♒ Stream](https://www.office.com/launch/stream?auth=2)
+[💦 Stream](https://www.office.com/launch/stream?auth=2)
 
-[📧 Outlook](https://outlook.office.com/mail/)
+[📧 Outlook Web Access / OWA](https://outlook.office.com/mail/)
 
-📄 Word
+[📄 Word](https://www.office.com/launch/word/?auth=2)
 
-Excel
+[Excel](https://www.office.com/launch/excel?auth=2)
 
 📁 OneDrive
+
+[🔌 PowerPoint](https://www.office.com/launch/powerpoint?auth=2)
 
 ## Azure Arc
 
@@ -33,7 +35,7 @@ Excel
 
 [💻 Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
 
-[Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
+[🪟 Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
 [Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
 
