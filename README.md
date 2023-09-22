@@ -59,6 +59,12 @@
 
 [💿 Installed Software/Application Inventory](https://security.microsoft.com/vulnerability-management-inventories/applications?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[🌍 Web Browser Extensions](https://security.microsoft.com/vulnerability-management-inventories/extensions?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[📃 Certificates](https://security.microsoft.com/vulnerability-management-inventories/certificates?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[🖥️ Hardware/Firmware/BIOS/Models/Processors/CPUs](https://security.microsoft.com/vulnerability-management-inventories/hardwareAndFirmware?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 [ 🏆 Secure Score ](https://security.microsoft.com/securescore?viewid=actions&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [🐛 AV / AntiVirus Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus)
