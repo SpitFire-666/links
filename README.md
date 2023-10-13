@@ -2,6 +2,8 @@
 
 # END USER 🗣
 
+[🛂 MFA Setup](https://aka.ms/mfasetup)
+
 [🔑 Change Password](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
 
 [🔑 Self Service Password Reset (SSPR)](https://passwordreset.microsoftonline.com)
