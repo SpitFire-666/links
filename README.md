@@ -39,6 +39,8 @@
 
 [🪟 Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
+[ Intune | Noncompliant devices](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/~/noncompliantDevices/defaultId/noncompliantDevices)
+
 [Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
 
 [Windows Apps](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsWindowsMenu/~/windowsApps)
@@ -57,7 +59,7 @@
 
 [🌍 Web Filtering URLs](https://security.microsoft.com/webcontentfilteringcategoriesdetailspage?viewid=domains)
 
-[📚 Sentinel Workbooks](https://portal.azure.com/#view/Microsoft_Azure_Security_Insights/MainMenuBlade/~/9/id/%2Fsubscriptions%2F30e05503-80db-46f8-887b-aa6207a9fb27%2Fresourcegroups%2Ftsec-siem-rg-auc%2Fproviders%2Fmicrosoft.securityinsightsarg%2Fsentinel%2Fauc-siem-loa)
+[📚 Sentinel](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.securityinsightsarg%2Fsentinel)
 
 [💻 Microsoft 365 Defender | Devices](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
