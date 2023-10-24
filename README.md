@@ -1,6 +1,4 @@
-# LINKS
-
-# END USER 🗣
+# 🗣 END USER
 
 [🛂 MFA Setup](https://aka.ms/mfasetup)
 
@@ -86,6 +84,8 @@
 [🎯Advanced Hunting](https://security.microsoft.com/v2/advanced-hunting?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [💻 Device Groups](https://security.microsoft.com/securitysettings/endpoints/machine_groups?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[🤫 Purview / Compliance Portal](https://compliance.microsoft.com/homepage?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 ## 🔞 Admin
 
