@@ -61,6 +61,8 @@
 
 [☁️ Cloud App Catalog | ALL](https://security.microsoft.com/cloudapps/app-catalog?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[🎧📼🔌Device Control](https://security.microsoft.com/deviceprotectionpage?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 [⛔ Cloud App Catalog | Unsanctioned](https://security.microsoft.com/cloudapps/app-catalog?tag=eq(Unsanctioned,)&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [📚 Sentinel](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.securityinsightsarg%2Fsentinel)
