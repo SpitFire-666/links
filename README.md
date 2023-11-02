@@ -45,6 +45,8 @@
 
 [🔐 Security Baselines](https://endpoint.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/securityBaselines)
 
+[💍 Update Rings](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings)
+
 ## Security
 
 [📏 Defender Asset Rule Management](https://security.microsoft.com/securitysettings/defender/rule_management?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
