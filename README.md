@@ -37,9 +37,11 @@
 
 [🪟 Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
-[ Intune | Noncompliant devices](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/~/noncompliantDevices/defaultId/noncompliantDevices)
+[👎 Intune | Noncompliant devices](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/~/noncompliantDevices/defaultId/noncompliantDevices)
 
-[Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
+[✅ Intune | Remediations](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations)
+
+[👮 Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
 
 [Windows Apps](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsWindowsMenu/~/windowsApps)
 
