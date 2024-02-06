@@ -39,7 +39,7 @@
 
 [👎 Intune | Noncompliant devices](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/~/noncompliantDevices/defaultId/noncompliantDevices)
 
-[📃 Intune | Configuration Profiles](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configurationProfiles)
+[📃 Intune | Configuration Policies](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configuration)
 
 [✅ Intune | Remediations](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations)
 
