@@ -41,7 +41,7 @@
 
 [📃 Intune | Configuration Policies](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configuration)
 
-[✅ Intune | Remediations](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations)
+[✅ Intune | Scripts and Remediations](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/scripts)
 
 [👮 Compliance Policies](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/compliancePolicies)
 
