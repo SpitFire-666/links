@@ -121,6 +121,8 @@
 
 ## stuff
 
+[🏠 Tenant Properties / Tenancy ID](https://portal.azure.com/#view/Microsoft_AAD_IAM/TenantProperties.ReactView)
+
 Log Analytics
 
 [❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
