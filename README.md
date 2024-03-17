@@ -53,6 +53,8 @@
 
 ## Security
 
+[🫣 Exposure Management](https://security.microsoft.com/exposure-overview)
+
 [🔑📱Authentication Methods / MFA / SMS ](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods/fromNav/)
 
 [📏 Defender Asset Rule Management](https://security.microsoft.com/securitysettings/defender/rule_management?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
