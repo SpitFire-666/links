@@ -125,6 +125,8 @@
 
 [🏠 Tenant Properties / Tenancy ID](https://portal.azure.com/#view/Microsoft_AAD_IAM/TenantProperties.ReactView)
 
+[ 🌐 Enterprise Applications](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview)
+
 Log Analytics
 
 [❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
