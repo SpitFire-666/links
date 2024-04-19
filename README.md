@@ -33,6 +33,8 @@
 
 ## Intune
 
+[💿 Apps - All Apps / Software / Packages](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/allApps)
+
 [💻 Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
 
 [🪟 Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
