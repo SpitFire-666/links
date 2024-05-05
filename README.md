@@ -163,4 +163,4 @@ Log Analytics
 
 # Other
 
-[📧 Message Header Analyzer](https://mha.azurewebsites.net/pages/mha.html)
+[📧 Message Header Analyzer (MHA)](https://mha.azurewebsites.net/pages/mha.html)
