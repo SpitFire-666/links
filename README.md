@@ -164,3 +164,5 @@ Log Analytics
 # Other
 
 [📧 Message Header Analyzer (MHA)](https://mha.azurewebsites.net/pages/mha.html)
+
+[Azure Virtual Desktop (AVD)](https://client.wvd.microsoft.com/arm/webclient/index.html)
