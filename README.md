@@ -133,6 +133,9 @@ Log Analytics
 
 [❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
 
+[❤ Service Health2](https://portal.office.com/servicestatus)
+
+
 ## O365
 
 [Azure Active Directory (AAD)](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade)
