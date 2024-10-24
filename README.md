@@ -138,7 +138,9 @@ Log Analytics
 [❤ Service Health2](https://portal.office.com/servicestatus)
 
 
-## O365
+## O365 / M365 / AAD / Entra
+
+[🔄️ Microsoft Entra Connect / AAD Connect](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/DirectoriesADConnectBlade)
 
 [Azure Active Directory (AAD)](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade)
 
@@ -156,7 +158,7 @@ Log Analytics
 
 [💻 Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
 
-[Federation / External Identities](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/IdentityProviders)
+[🏢 Federation / External Identities](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/IdentityProviders)
 
 # Azure
 
