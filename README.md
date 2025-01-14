@@ -22,6 +22,8 @@
 
 [Excel](https://www.office.com/launch/excel?auth=2)
 
+[MS Office updates / release notes](https://learn.microsoft.com/en-au/officeupdates/current-channel)
+
 📁 OneDrive
 
 [🔌 PowerPoint](https://www.office.com/launch/powerpoint?auth=2)
