@@ -57,7 +57,11 @@
 
 [💍 Update Rings](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings)
 
+[Intune Groups](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups)
+
 ## Security
+
+[Security Baselines Assessment](https://security.microsoft.com/baseline-compliance/overview?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [🫣 Exposure Management](https://security.microsoft.com/exposure-overview)
 
