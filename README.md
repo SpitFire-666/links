@@ -139,10 +139,6 @@
 
 Log Analytics
 
-[❤ Service Health](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
-
-[❤ Service Health2](https://portal.office.com/servicestatus)
-
 
 ## O365 / M365 / AAD / Entra
 
@@ -179,3 +175,11 @@ Log Analytics
 [📧 Message Header Analyzer (MHA)](https://mha.azurewebsites.net/pages/mha.html)
 
 [Azure Virtual Desktop (AVD)](https://client.wvd.microsoft.com/arm/webclient/index.html)
+
+# 🩺Service health/status
+
+[Azure Service Health/Status](https://azure.status.microsoft/en-us/status)
+
+[❤ Service Health2/Status (no login required)](https://status.cloud.microsoft/)
+
+[❤ Service Health/Status (login required)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
