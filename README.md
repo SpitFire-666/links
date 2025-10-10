@@ -16,8 +16,6 @@
 
 [💦 Stream](https://www.office.com/launch/stream?auth=2)
 
-[📧 Outlook Web Access / OWA](https://outlook.office.com/mail/)
-
 [📄 Word](https://www.office.com/launch/word/?auth=2)
 
 [Excel](https://www.office.com/launch/excel?auth=2)
@@ -28,22 +26,30 @@
 
 [🔌 PowerPoint](https://www.office.com/launch/powerpoint?auth=2)
 
-## Azure Arc
 
-[Servers](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/servers)
+# 💻 Devices
+[💻 AAD - All Devices/Computers](https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices)
 
-
-## Intune
+[💻 Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
 
 [ 🔧 Reliability / Endpoint Analytics / Performance / Startup ](https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/overview)
-
-[💿 Apps - All Apps / Software / Packages](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/allApps)
 
 [💻 Intune | All Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/mDMDevicesPreview)
 
 [🪟 Intune | Windows Devices](https://endpoint.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices)
 
 [👎 Intune | Noncompliant devices](https://intune.microsoft.com/?feature.msaljs=true#view/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/~/noncompliantDevices/defaultId/noncompliantDevices)
+
+[💻 Defender | Devices](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[🖥️ Hardware/Firmware/BIOS/Models/Processors/CPUs](https://security.microsoft.com/vulnerability-management-inventories/hardwareAndFirmware?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+
+
+
+## Intune
+
+[💿 Apps - All Apps / Software / Packages](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/allApps)
 
 [📃 Intune | Configuration Policies](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configuration)
 
@@ -89,15 +95,11 @@
 
 [📖 Azure Workbooks](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks)
 
-[💻 Microsoft 365 Defender | Devices](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
-
 [💿 Installed Software/Application Inventory](https://security.microsoft.com/vulnerability-management-inventories/applications?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [🌍 Web Browser Extensions](https://security.microsoft.com/vulnerability-management-inventories/extensions?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [📃 Certificates](https://security.microsoft.com/vulnerability-management-inventories/certificates?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
-
-[🖥️ Hardware/Firmware/BIOS/Models/Processors/CPUs](https://security.microsoft.com/vulnerability-management-inventories/hardwareAndFirmware?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 [🏆 Secure Score ](https://security.microsoft.com/securescore?viewid=actions&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
@@ -112,13 +114,15 @@
 [🤫 Purview / Compliance Portal](https://compliance.microsoft.com/homepage?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 
-# Email-related
+# 📧 Email-related
+
+[📧 Outlook Web Access / OWA](https://outlook.office.com/mail/)
 
 [📧 Exchange ECP old ](https://outlook.office365.com/ecp/?form=eac&mkt=en-US)
 
 [📧 Exchange ECP new ](https://admin.exchange.microsoft.com/#/homepage)
 
-[📧 Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
+[📧 Exchange Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
 
 [Anti-Spam policies](https://security.microsoft.com/antispam?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
@@ -161,10 +165,6 @@ Log Analytics
 
 [👪 AAD Groups](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups)
 
-[💻 AAD All Devices/Computers](https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices)
-
-[💻 Stale devices](https://aad.portal.azure.com/#view/Microsoft_AAD_Devices/DevicesList.ReactView/initQuery~/%7B%22lastLogonStartTimeStamp%22%3A%221970-01-01T00%3A00%3A00.000Z%22%2C%22lastLogonEndTimeStamp%22%3A%222022-08-26T06%3A13%3A44.861Z%22%7D/mezzoEnabled~/true)
-
 [🏢 Federation / External Identities](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/IdentityProviders)
 
 # Azure
@@ -186,3 +186,7 @@ Log Analytics
 [❤ Service Health2/Status (no login required)](https://status.cloud.microsoft/)
 
 [❤ Service Health/Status (login required)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
+
+## Azure Arc
+
+[Servers](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/servers)
