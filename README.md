@@ -111,31 +111,36 @@
 
 [🤫 Purview / Compliance Portal](https://compliance.microsoft.com/homepage?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
-## 🔞 Admin
 
-[💎 Roles/PIM](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
+# Email-related
 
 [📧 Exchange ECP old ](https://outlook.office365.com/ecp/?form=eac&mkt=en-US)
 
 [📧 Exchange ECP new ](https://admin.exchange.microsoft.com/#/homepage)
 
-[Anti-Spam policies](https://security.microsoft.com/antispam?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
-
-[M365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/homepage)
-
 [📧 Message Trace](https://admin.exchange.microsoft.com/#/messagetrace)
 
+[Anti-Spam policies](https://security.microsoft.com/antispam?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 [☣ Quarantined Emails](https://security.microsoft.com/quarantine?viewid=Email&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[📧 Message Header Analyzer (MHA)](https://mha.azurewebsites.net/pages/mha.html)
+
+
+# stuff
+
+[🏠 Tenant Properties / Tenancy ID](https://portal.azure.com/#view/Microsoft_AAD_IAM/TenantProperties.ReactView)
+
+[🌐 Enterprise Applications](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview)
+
+[💎 Roles/PIM](https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles/provider/aadroles)
+
+[M365 Admin Center](https://admin.microsoft.com/Adminportal/Home#/homepage)
 
 [💬 Teams Admin](https://admin.teams.microsoft.com/dashboard)
 
 [Sharepoint / OneDrive Admin](https://ffmaau-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/home)
 
-## stuff
-
-[🏠 Tenant Properties / Tenancy ID](https://portal.azure.com/#view/Microsoft_AAD_IAM/TenantProperties.ReactView)
-
-[ 🌐 Enterprise Applications](https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview)
 
 Log Analytics
 
@@ -171,8 +176,6 @@ Log Analytics
 [📊Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade)
 
 # Other
-
-[📧 Message Header Analyzer (MHA)](https://mha.azurewebsites.net/pages/mha.html)
 
 [Azure Virtual Desktop (AVD)](https://client.wvd.microsoft.com/arm/webclient/index.html)
 
