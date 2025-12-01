@@ -190,3 +190,6 @@ Log Analytics
 ## Azure Arc
 
 [Servers](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/servers)
+
+[Logic Apps](https://portal.azure.com/#browse/Microsoft.Logic%2Fworkflows)
+
