@@ -175,21 +175,29 @@ Log Analytics
 
 [📊Resource Graph Explorer](https://portal.azure.com/#view/HubsExtension/ArgQueryBlade)
 
-# Other
-
-[Azure Virtual Desktop (AVD)](https://client.wvd.microsoft.com/arm/webclient/index.html)
-
 # 🩺Service health/status
 
 [Azure Service Health/Status](https://azure.status.microsoft/en-us/status)
 
-[❤ Service Health2/Status (no login required)](https://status.cloud.microsoft/)
+[🧑‍⚕️ Service Health2/Status (no login required)](https://status.cloud.microsoft/)
 
-[❤ Service Health/Status (login required)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
+[🧑‍⚕️ Service Health/Status (login required)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)
 
-## Azure Arc
+
+# Other
+
+[🖥️ Azure Virtual Desktop (AVD)](https://client.wvd.microsoft.com/arm/webclient/index.html)
 
 [Servers](https://portal.azure.com/#view/Microsoft_Azure_HybridCompute/AzureArcCenterBlade/~/servers)
 
-[Logic Apps](https://portal.azure.com/#browse/Microsoft.Logic%2Fworkflows)
+[🧩 Logic Apps](https://portal.azure.com/#browse/Microsoft.Logic%2Fworkflows)
+
+[Data Collection Rules](https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/dataCollectionRules)
+
+[Data Collection Endpoints](https://portal.azure.com/#browse/microsoft.insights%2Fdatacollectionendpoints)
+
+[All roles](https://portal.azure.com/#view/Microsoft_AAD_IAM/AllRolesBlade)
+
+
+
 
