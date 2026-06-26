@@ -113,6 +113,9 @@
 
 [🤫 Purview / Compliance Portal](https://compliance.microsoft.com/homepage?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[Defender settings](https://security.microsoft.com/securitysettings?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[Defender | Device Groups](https://security.microsoft.com/securitysettings/defender/devices_automated_response_exclusions?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa&tabId=dg)
 
 # 📧 Email-related
 
