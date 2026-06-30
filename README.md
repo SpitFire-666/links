@@ -75,6 +75,10 @@
 
 [📏 Defender Asset Rule Management](https://security.microsoft.com/securitysettings/defender/rule_management?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[ Defender - Incidents](https://security.microsoft.com/incidents?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[ Defender - Sentinel Analytics Rules](https://security.microsoft.com/sentinel/analytics?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 [👮‍♂️ Conditional Access](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies)
 
 [👤 User Sign-In logs](https://endpoint.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/SignIns)
