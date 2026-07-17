@@ -42,6 +42,10 @@
 
 [💻 Defender | Devices](https://security.microsoft.com/machines?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
+[💻 Defender | Onboarding](https://security.microsoft.com/securitysettings/endpoints/onboarding?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[💻 Defender | Offboarding](https://security.microsoft.com/securitysettings/endpoints/offboarding?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 [🖥️ Hardware/Firmware/BIOS/Models/Processors/CPUs](https://security.microsoft.com/vulnerability-management-inventories/hardwareAndFirmware?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 
