@@ -211,6 +211,5 @@ Log Analytics
 
 [All roles](https://portal.azure.com/#view/Microsoft_AAD_IAM/AllRolesBlade)
 
-
-
+[Entra Connect Health/Sync Errors](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_Azure_ADHybridHealth/AadHealthMenu.MenuView/~/syncErrors)
 
