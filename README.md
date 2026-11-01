@@ -127,6 +127,8 @@
 
 [Defender | Device Groups](https://security.microsoft.com/securitysettings/defender/devices_automated_response_exclusions?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa&tabId=dg)
 
+[Threat Intelligence - Indicators](https://security.microsoft.com/threatintelligenceexplorer?tabId=Indicators&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
 # 📧 Email-related
 
 [📧 Outlook Web Access / OWA](https://outlook.office.com/mail/)
