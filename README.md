@@ -49,8 +49,6 @@
 [🖥️ Hardware/Firmware/BIOS/Models/Processors/CPUs](https://security.microsoft.com/vulnerability-management-inventories/hardwareAndFirmware?certificateTabId=Overview&firmwareTabId=Hardware&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
 
 
-
-
 ## Intune
 
 [💿 Apps - All Apps / Software / Packages](https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/allApps)
@@ -128,6 +126,8 @@
 [Defender | Device Groups](https://security.microsoft.com/securitysettings/defender/devices_automated_response_exclusions?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa&tabId=dg)
 
 [Threat Intelligence - Indicators](https://security.microsoft.com/threatintelligenceexplorer?tabId=Indicators&tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa)
+
+[Indicators/IPs](https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?tid=fd43fd6a-a54c-42be-bf74-e2aebb3a05fa&childviewid=ip)
 
 # 📧 Email-related
 
