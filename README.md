@@ -215,3 +215,4 @@ Log Analytics
 
 [Entra Connect Health/Sync Errors](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_Azure_ADHybridHealth/AadHealthMenu.MenuView/~/syncErrors)
 
+[📉 Down Detector](https://downdetector.com/)
