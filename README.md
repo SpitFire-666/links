@@ -213,7 +213,7 @@ Log Analytics
 
 [All roles](https://portal.azure.com/#view/Microsoft_AAD_IAM/AllRolesBlade)
 
-[Entra Connect Health/Sync Errors](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_Azure_ADHybridHealth/AadHealthMenu.MenuView/~/syncErrors)
+[❤️ Entra Connect Health/Sync Errors](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_Azure_ADHybridHealth/AadHealthMenu.MenuView/~/syncErrors)
 
 [📉 Down Detector](https://downdetector.com/)
 
@@ -221,6 +221,6 @@ Log Analytics
 
 [Adobe Admin Console](https://adminconsole.adobe.com)
 
-[Microsoft Edge Policy/Policies](edge://policy)
+Microsoft Edge Policy/Policies: edge://policy
 
-[Google Chrome Policy/Policies](edge://policy)
+Google Chrome Policy/Policies: chrome://policy
