@@ -1,4 +1,4 @@
-# 🗣 END USER
+# 🗣 End User Stuff
 
 [🛂 MFA Setup](https://aka.ms/mfasetup)
 
@@ -216,3 +216,11 @@ Log Analytics
 [Entra Connect Health/Sync Errors](https://entra.microsoft.com/?feature.msaljs=false#view/Microsoft_Azure_ADHybridHealth/AadHealthMenu.MenuView/~/syncErrors)
 
 [📉 Down Detector](https://downdetector.com/)
+
+[Symantec Site Review](https://sitereview.bluecoat.com)
+
+[Adobe Admin Console](https://adminconsole.adobe.com)
+
+[Microsoft Edge Policy/Policies](edge://policy)
+
+[Google Chrome Policy/Policies](edge://policy)
